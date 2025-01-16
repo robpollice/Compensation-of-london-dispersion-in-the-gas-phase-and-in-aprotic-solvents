@@ -10,4 +10,6 @@ This repository contains optimized geometries as XYZ files and the sigma-profile
 [cc-by-nc-sa]: https://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-button]: https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png
 
-### DOI: https://doi.org/10.5281/zenodo.14673516
+### DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14673516.svg)](https://doi.org/10.5281/zenodo.14673516)
+
+
